@@ -6,4 +6,16 @@
 python case_try.py --data_path=./case/TATFUQ.npy  --model_path=./checkpoints/XRDecoupler.pth
 ```
 
+##### train
+
+```
+python train.py 
+```
+
+##### test 
+
+```
+python test.py
+```
+
 ### To be continued...
