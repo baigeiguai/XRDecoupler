@@ -1,4 +1,4 @@
-checkpoints
-data
+checkpoints/XRDecoupler.pth
+# data
 **/__pycache__
 
